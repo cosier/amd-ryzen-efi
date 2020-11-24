@@ -1723,7 +1723,7 @@
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>MLB</key>
-			<string>C02853303J9JG36JC</string>
+			<string>C029374034NLNV9FB</string>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
@@ -1731,11 +1731,11 @@
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>
-			<string>iMacPro1,1</string>
+			<string>iMac19,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02Y12YEHX87</string>
+			<string>C02ZD6ZSJV3Q</string>
 			<key>SystemUUID</key>
-			<string>B5CBCB47-079C-488A-99F8-62102686323C</string>
+			<string>2BB4BBDB-470A-4439-8C06-6C783EE665F2</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
